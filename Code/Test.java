@@ -1,3 +1,3 @@
 Class Test{
-	
+	String str;
 }
